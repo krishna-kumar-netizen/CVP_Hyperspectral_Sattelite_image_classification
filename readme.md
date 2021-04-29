@@ -12,3 +12,5 @@
     -> Obtained accuracy 97.9%. 
  
 3. New architecture based on Resnet. 
+
+Comparision, Results and Analysis in report and PPT. 
