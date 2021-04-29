@@ -10,4 +10,4 @@
 
 4. Current State of the art model Hybrid SN: 3D and 2D convolutions to create hybrid.
     -> Obtained accuracy 97.9%. 
-   
+ 
